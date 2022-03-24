@@ -15,7 +15,6 @@
     <name>lab5</name>
     <description>lab5</description>
     <properties>
-        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
